@@ -3,7 +3,7 @@
 // @namespace    https://zeta-ai.io/
 // @version      1.1
 // @description  Zeta 채팅방을 아이메시지 스타일 파스텔 테마로 변경 (유저 말풍선 랜덤 파스텔 색상)
-// @author       이망고
+// @author       젯시
 // @match        https://zeta-ai.io/*
 // @match        https://*.zeta-ai.io/*
 // @match        https://frame.pingpong.ai/*
